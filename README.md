@@ -1,4 +1,4 @@
-## Hey there
+## Hey there.
 
 I am Raashid Salih, and as a CS graduate currently pursuing a postgraduate degree in Analytics, my primary objective is to help your business make data profitable.
 
