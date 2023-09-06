@@ -7,7 +7,7 @@ I intend to achieve said objective in a number of ways:
  - By preparing more robust pipelines that facilitate consistent reporting for upper management decision making.
  - Finally, I can develop and maintain Machine Learning models that automate tasks and enable departments to achieve greater efficacy.
 
-I am rather passionate about the applied data space, especially how modelling and analytics can have a tangible impact to a company's operations beyond just a proof of concept. As a result, my skill set spans across Analytics Science, Data Engineering, and ML Engineering.
+I am rather passionate about the applied data space, especially how modelling and analytics can have a tangible impact to a company's operations beyond just a proof of concept. As a result, my skill set spans across Analytics Engineering, Data Engineering, and ML Engineering.
 
 
 I am open to career opportunities and would be delighted to discuss how my experiences in the data analytics field can contribute to your organization's success. If that's the case, please [feel free to reach out to me.](https://www.linkedin.com/in/raashid-salih/)
