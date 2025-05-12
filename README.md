@@ -1,6 +1,6 @@
 ## Hey there.
 
-I am Raashid Salih, and as a CS graduate currently pursuing a postgraduate degree in Analytics, my primary objective is to help your business make data profitable.
+I am Raashid Salih, and as a Data scientist currently working at a logistics based AI startup, my primary objective is to help your business make data profitable.
 
 I intend to achieve said objective in a number of ways:
  - By developing and maintaining the infrastructure (cloud or otherwise) to make data readily available to the departments that require it for analysis.
